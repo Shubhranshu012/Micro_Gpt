@@ -6,7 +6,7 @@ This project implements a Transformer-based language model inspired by GPT, writ
 
 The plot below illustrates the decrease in training loss over 5000 epochs. We can see that the loss steadily decreases, indicating the model is learning effectively.
 
-![Model Loss Plot](loss.png)
+![Model Loss Plot](Loss.png)
 ## 📌 Features
 
 - Transformer architecture with:
